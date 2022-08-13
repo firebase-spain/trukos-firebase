@@ -1,6 +1,6 @@
 # Trukos-Firebase
 
-# Comandos
+Comandos
 ```
 firebase logout
 firebase login
